@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aeu0wt2QP8mgVR8MPJ7nlvdJOr2MGdqsYB0mroZuMlZaP1xzxMsR0YrmBr/kySPm96awBvWWPf6Cc6xQ4H6r1w==",
+  "dgSpecHash": "BDU7gWoXdh2gff7GR7wrpv+ICASASdJnEXVTDIpcVQrzpBFfVuF8XCR23JXBedVN4UMV1r8kghwlHzIZb2fz9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicolas\\Desktop\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj",
+  "projectFilePath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicolas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nicolas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
