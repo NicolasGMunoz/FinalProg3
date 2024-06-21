@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\UTN.WebApplication.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
       "Id": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

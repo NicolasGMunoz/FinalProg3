@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Bienvenido Usuario</h1>
+
+<ul>
+    <li>@Html.ActionLink("Compra", "Compra", "Profile")</li>
+    <li>@Html.ActionLink("Venta", "Venta", "Profile")</li>
+</ul>

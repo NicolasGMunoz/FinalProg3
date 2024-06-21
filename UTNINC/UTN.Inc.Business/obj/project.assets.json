@@ -1271,12 +1271,23 @@
           }
         }
       },
+      "UTN.Inc.Configuration/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/UTN.Inc.Configuration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UTN.Inc.Configuration.dll": {}
+        }
+      },
       "UTN.Inc.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
+          "UTN.Inc.Configuration": "1.0.0",
           "UTN.Inc.Entities": "1.0.0"
         },
         "compile": {
@@ -4212,6 +4223,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "UTN.Inc.Configuration/1.0.0": {
+      "type": "project",
+      "path": "../UTN.Inc.Configuration/UTN.Inc.Configuration.csproj",
+      "msbuildProject": "../UTN.Inc.Configuration/UTN.Inc.Configuration.csproj"
     },
     "UTN.Inc.Data/1.0.0": {
       "type": "project",

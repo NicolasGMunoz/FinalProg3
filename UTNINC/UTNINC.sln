@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTN.Inc.Entities", "UTN.Inc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIStock", "API-Stock\APIStock.csproj", "{FEF77866-0FC5-49A6-8441-24A17F9CD0A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTN.WebApplication", "UTN.WebApplication\UTN.WebApplication.csproj", "{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTN.WebApplication", "UTN.WebApplication\UTN.WebApplication.csproj", "{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTN.Inc.Configuration", "UTN.Inc.Configuration\UTN.Inc.Configuration.csproj", "{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GkqsmT/pcY8C8JGnBUSBPqdsI+gGBq5Rj2S18FNbji4=",
+  "Hash": "JTXYHhgrnhcrb5kBVAJ3tdkTcBNchI4NMdw5DkS7r34=",
   "Source": "UTN.WebApplication",
   "BasePath": "_content/UTN.WebApplication",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTN.WebApplication.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\register.css",
+      "SourceId": "UTN.WebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\wwwroot\\",
+      "BasePath": "_content/UTN.WebApplication",
+      "RelativePath": "css/register.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\register.css"
     },
     {
       "Identity": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\site.css",

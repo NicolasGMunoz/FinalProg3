@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}|UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.inc.configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}|UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj|solutionrelative:utn.inc.configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\views\\profile\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\profile\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\views\\profile\\venta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\profile\\venta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "UTN.WebApplication\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-19T18:44:11.934Z",
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\Config.cs",
+              "RelativeDocumentMoniker": "UTN.Inc.Configuration\\Config.cs",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\Config.cs",
+              "RelativeToolTip": "UTN.Inc.Configuration\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:47:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "UTN.WebApplication\\Controllers\\CompraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:21:31.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "UTN.WebApplication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAgAAABeAAAA",
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "UTN.WebApplication\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:12:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venta.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Profile\\Venta.cshtml",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Profile\\Venta.cshtml",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Profile\\Venta.cshtml",
+              "RelativeToolTip": "UTN.WebApplication\\Views\\Profile\\Venta.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T18:30:16.692Z",
+              "WhenOpened": "2024-06-21T21:20:21.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "UTN.WebApplication\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T18:29:42.964Z",
+              "Title": "Compra.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Profile\\Compra.cshtml",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Profile\\Compra.cshtml",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Profile\\Compra.cshtml",
+              "RelativeToolTip": "UTN.WebApplication\\Views\\Profile\\Compra.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:19:33.702Z",
               "EditorCaption": ""
             }
           ]
