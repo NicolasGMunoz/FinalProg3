@@ -13,6 +13,10 @@ namespace UTN.Inc.Business
             _productoRepo = producto;
         }
 
+        public ProductoLogica()
+        {
+        }
+
         //METODOS PARA PRODUCTO
         //ALTA
         public void Alta() 
@@ -163,7 +167,14 @@ namespace UTN.Inc.Business
             foreach (var item in result) 
             { 
                 Console.WriteLine($"ID:{item.ProductoId} Nombre: {item.ProductoNombre} Categoria: {item.CategoriaNombre}");
+                
             }
+        }
+
+        public List<Producto> GetProductos(List<Producto> productList)
+        {
+            var ProductList = ListarTodosLosProductos;
+            return productList;
         }
        
         

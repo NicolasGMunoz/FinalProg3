@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj": {}
+    "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj": {
+    "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UTN.Inc.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj",
-        "projectName": "UTN.WebApplication",
-        "projectPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj",
-        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\obj\\",
+        "projectUniqueName": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UTN.Inc.Business.csproj",
+        "projectName": "UTN.Inc.Business",
+        "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UTN.Inc.Business.csproj",
+        "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
+        "outputPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,12 +26,316 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj": {
+                "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj"
+              },
+              "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+                "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
+        "projectName": "UTN.Inc.Configuration",
+        "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
+        "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
+        "outputPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj",
+        "projectName": "UTN.Inc.Data",
+        "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj",
+        "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
+        "outputPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {
+                "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj"
+              },
+              "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+                "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
+        "projectName": "UTN.Inc.Entities",
+        "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
+        "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
+        "outputPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj",
+        "projectName": "UTN.WebApplication",
+        "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj",
+        "packagesPath": "C:\\Users\\Nicolás\\.nuget\\packages\\",
+        "outputPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.WebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicolás\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UTN.Inc.Business.csproj": {
+                "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UTN.Inc.Business.csproj"
+              },
+              "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+                "projectPath": "D:\\Final p3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -81,7 +385,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

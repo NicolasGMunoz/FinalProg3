@@ -33,3 +33,15 @@ C:\Users\Nicolas\Desktop\Nueva carpeta\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\
 C:\Users\Nicolas\Desktop\Nueva carpeta\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\refint\UTN.Inc.Entities.dll
 C:\Users\Nicolas\Desktop\Nueva carpeta\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.pdb
 C:\Users\Nicolas\Desktop\Nueva carpeta\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\ref\UTN.Inc.Entities.dll
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.deps.json
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.dll
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.pdb
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.AssemblyInfoInputs.cache
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.AssemblyInfo.cs
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.csproj.CoreCompileInputs.cache
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.sourcelink.json
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.dll
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\refint\UTN.Inc.Entities.dll
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.pdb
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\ref\UTN.Inc.Entities.dll
