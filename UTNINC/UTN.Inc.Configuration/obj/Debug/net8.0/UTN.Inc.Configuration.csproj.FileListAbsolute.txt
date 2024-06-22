@@ -1,0 +1,12 @@
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.deps.json
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.dll
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.pdb
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.AssemblyInfoInputs.cache
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.AssemblyInfo.cs
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.csproj.CoreCompileInputs.cache
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.sourcelink.json
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.dll
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\refint\UTN.Inc.Configuration.dll
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.pdb
+D:\Final p3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\ref\UTN.Inc.Configuration.dll

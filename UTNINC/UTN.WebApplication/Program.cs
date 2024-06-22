@@ -9,7 +9,12 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<equipoDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("UTNConnectionString")));
 
+
+
+
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
