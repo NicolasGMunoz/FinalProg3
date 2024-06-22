@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using UTN.WebApplication.Models;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<equipoDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("UTNConnectionString")));
 
 var app = builder.Build();
 

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}|UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.inc.configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}|UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj|solutionrelative:utn.inc.configuration\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\views\\profile\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\profile\\compra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\models\\equipodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\models\\equipodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\views\\profile\\venta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\profile\\venta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\nueva carpeta\\utninc\\utn.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "equipoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Models\\equipoDBContext.cs",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\Models\\equipoDBContext.cs",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Models\\equipoDBContext.cs",
+              "RelativeToolTip": "UTN.WebApplication\\Models\\equipoDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:46:21.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\Config.cs",
-              "RelativeDocumentMoniker": "UTN.Inc.Configuration\\Config.cs",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\Config.cs",
-              "RelativeToolTip": "UTN.Inc.Configuration\\Config.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Program.cs",
+              "RelativeToolTip": "UTN.WebApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T22:47:40.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CompraController.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\CompraController.cs",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Controllers\\CompraController.cs",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\CompraController.cs",
-              "RelativeToolTip": "UTN.WebApplication\\Controllers\\CompraController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T21:21:31.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VentaController.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Controllers\\VentaController.cs",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "UTN.WebApplication\\Controllers\\VentaController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T21:12:06.706Z",
+              "WhenOpened": "2024-06-21T23:31:38.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Venta.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Profile\\Venta.cshtml",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Profile\\Venta.cshtml",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Profile\\Venta.cshtml",
-              "RelativeToolTip": "UTN.WebApplication\\Views\\Profile\\Venta.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T21:20:21.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Compra.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Profile\\Compra.cshtml",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Profile\\Compra.cshtml",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\Views\\Profile\\Compra.cshtml",
-              "RelativeToolTip": "UTN.WebApplication\\Views\\Profile\\Compra.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T21:19:33.702Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.WebApplication\\appsettings.json",
+              "RelativeToolTip": "UTN.WebApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T23:30:58.032Z",
               "EditorCaption": ""
             }
           ]
