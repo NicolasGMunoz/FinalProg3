@@ -721,10 +721,16 @@
           "UTN.Inc.Business.dll": {}
         }
       },
+      "UTN.Inc.Configuration/1.0.0": {
+        "runtime": {
+          "UTN.Inc.Configuration.dll": {}
+        }
+      },
       "UTN.Inc.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
+          "UTN.Inc.Configuration": "1.0.0",
           "UTN.Inc.Entities": "1.0.0"
         },
         "runtime": {
@@ -1256,6 +1262,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "UTN.Inc.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UTN.Inc.Configuration/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

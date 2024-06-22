@@ -1,20 +1,26 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using UTN.WebApplication.Models;
+using UTN.Inc.Business;
+
 
 namespace UTN.WebApplication.Controllers
 {
     public class CompraController : Controller
     {
         private readonly ILogger<CompraController> _logger;
+        
 
         public CompraController(ILogger<CompraController> logger)
         {
+           
             _logger = logger;
         }
 
         public IActionResult Index()
         {
+
+            
             return View();
         }
 
@@ -22,6 +28,8 @@ namespace UTN.WebApplication.Controllers
         {
             return View();
         }
+
+        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

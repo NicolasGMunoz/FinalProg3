@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj": {}
+    "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\UTN.Inc.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {
+    "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
+        "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
         "projectName": "UTN.Inc.Configuration",
-        "projectPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
-        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\obj\\",
+        "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
+        "packagesPath": "C:\\Users\\manu9\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\manu9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,25 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj": {
+    "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\UTN.Inc.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj",
+        "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\UTN.Inc.Data.csproj",
         "projectName": "UTN.Inc.Data",
-        "projectPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj",
-        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Data\\obj\\",
+        "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\UTN.Inc.Data.csproj",
+        "packagesPath": "C:\\Users\\manu9\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\manu9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,11 +88,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {
-                "projectPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj"
+              "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {
+                "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj"
               },
-              "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
-                "projectPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
+              "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+                "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
               }
             }
           }
@@ -151,25 +143,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+    "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
+        "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
         "projectName": "UTN.Inc.Entities",
-        "projectPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
-        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\Desktop\\Nueva carpeta\\UTNINC\\UTN.Inc.Entities\\obj\\",
+        "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
+        "packagesPath": "C:\\Users\\manu9\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\manu9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

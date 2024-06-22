@@ -1,11 +1,14 @@
 using Microsoft.EntityFrameworkCore;
+using UTN.Inc.Business;
 using UTN.WebApplication.Models;
+
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
 
 builder.Services.AddDbContext<equipoDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("UTNConnectionString")));
 
@@ -31,3 +34,5 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+

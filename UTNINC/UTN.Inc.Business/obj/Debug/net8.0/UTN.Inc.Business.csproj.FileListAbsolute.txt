@@ -34,3 +34,23 @@ C:\Users\Nicolas\Desktop\Nueva carpeta\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\
 C:\Users\Nicolas\Desktop\Nueva carpeta\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\refint\UTN.Inc.Business.dll
 C:\Users\Nicolas\Desktop\Nueva carpeta\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.pdb
 C:\Users\Nicolas\Desktop\Nueva carpeta\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\ref\UTN.Inc.Business.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Business.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Business.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Business.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Configuration.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Data.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Entities.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Data.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Entities.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Configuration.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.csproj.AssemblyReference.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.sourcelink.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc..A576F79D.Up2Date
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\refint\UTN.Inc.Business.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Business\obj\Debug\net8.0\ref\UTN.Inc.Business.dll

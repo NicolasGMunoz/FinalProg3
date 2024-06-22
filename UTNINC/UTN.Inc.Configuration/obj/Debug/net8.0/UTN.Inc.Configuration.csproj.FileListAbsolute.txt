@@ -1,0 +1,12 @@
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.deps.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.sourcelink.json
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\refint\UTN.Inc.Configuration.dll
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.pdb
+E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Configuration\obj\Debug\net8.0\ref\UTN.Inc.Configuration.dll

@@ -12,4 +12,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UTN.Inc.Business\UTN.Inc.Business.csproj" />
+    <ProjectReference Include="..\UTN.Inc.Data\UTN.Inc.Data.csproj" />
+    <ProjectReference Include="..\UTN.Inc.Entities\UTN.Inc.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
