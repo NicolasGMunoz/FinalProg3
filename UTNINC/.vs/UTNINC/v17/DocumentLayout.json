@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\",
+  "WorkspaceRootPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEF77866-0FC5-49A6-8441-24A17F9CD0A2}|API-Stock\\APIStock.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\tpi 2024\\app asp.net mvc\\utnincv3\\api-stock\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF77866-0FC5-49A6-8441-24A17F9CD0A2}|API-Stock\\APIStock.csproj|solutionrelative:api-stock\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEF77866-0FC5-49A6-8441-24A17F9CD0A2}|API-Stock\\APIStock.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\tpi 2024\\app asp.net mvc\\utnincv3\\api-stock\\apistock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FEF77866-0FC5-49A6-8441-24A17F9CD0A2}|API-Stock\\APIStock.csproj|solutionrelative:api-stock\\apistock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEF77866-0FC5-49A6-8441-24A17F9CD0A2}|API-Stock\\APIStock.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\tpi 2024\\app asp.net mvc\\utnincv3\\api-stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF77866-0FC5-49A6-8441-24A17F9CD0A2}|API-Stock\\APIStock.csproj|solutionrelative:api-stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2FF449-ECAD-4576-89F2-3A68EDAAC476}|UTN.Inc.Data\\UTN.Inc.Data.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\tpi 2024\\app asp.net mvc\\utnincv3\\utn.inc.data\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2FF449-ECAD-4576-89F2-3A68EDAAC476}|UTN.Inc.Data\\UTN.Inc.Data.csproj|solutionrelative:utn.inc.data\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\tpi 2024\\app asp.net mvc\\utnincv3\\utn.inc.business\\productologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|e:\\carpetas\\documentos\\utn tup\\repos\\repo pulpo\\finalprog3\\utninc\\utn.inc.business\\productologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|solutionrelative:utn.inc.business\\productologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\tpi 2024\\app asp.net mvc\\utnincv3\\utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|e:\\carpetas\\documentos\\utn tup\\repos\\repo pulpo\\finalprog3\\utninc\\utn.inc.business\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|solutionrelative:utn.inc.business\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|e:\\carpetas\\documentos\\utn tup\\programacion 2024\\tpi 2024\\app asp.net mvc\\utnincv3\\utn.inc.business\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|solutionrelative:utn.inc.business\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09CE6742-A7D1-4CCA-82BB-E644F79C9918}|AppConsola\\AppConsola.csproj|e:\\carpetas\\documentos\\utn tup\\repos\\repo pulpo\\finalprog3\\utninc\\appconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CE6742-A7D1-4CCA-82BB-E644F79C9918}|AppConsola\\AppConsola.csproj|solutionrelative:appconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "APIStock",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\API-Stock\\APIStock.csproj",
-              "RelativeDocumentMoniker": "API-Stock\\APIStock.csproj",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\API-Stock\\APIStock.csproj",
-              "RelativeToolTip": "API-Stock\\APIStock.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-22T22:08:36.962Z",
+              "DocumentIndex": 0,
+              "Title": "ProductoLogica.cs",
+              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\ProductoLogica.cs",
+              "RelativeDocumentMoniker": "UTN.Inc.Business\\ProductoLogica.cs",
+              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\ProductoLogica.cs",
+              "RelativeToolTip": "UTN.Inc.Business\\ProductoLogica.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAIwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:53:31.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\API-Stock\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "API-Stock\\Controllers\\StockController.cs",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\API-Stock\\Controllers\\StockController.cs",
-              "RelativeToolTip": "API-Stock\\Controllers\\StockController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowBwAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "UsuarioLogica.cs",
+              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UsuarioLogica.cs",
+              "RelativeDocumentMoniker": "UTN.Inc.Business\\UsuarioLogica.cs",
+              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UsuarioLogica.cs",
+              "RelativeToolTip": "UTN.Inc.Business\\UsuarioLogica.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowGUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T22:03:36.347Z",
+              "WhenOpened": "2024-06-23T17:52:33.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\API-Stock\\Program.cs",
-              "RelativeDocumentMoniker": "API-Stock\\Program.cs",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\API-Stock\\Program.cs",
-              "RelativeToolTip": "API-Stock\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\AppConsola\\Program.cs",
+              "RelativeDocumentMoniker": "AppConsola\\Program.cs",
+              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\AppConsola\\Program.cs",
+              "RelativeToolTip": "AppConsola\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAIwGEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T22:03:32.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\Repository\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "UTN.Inc.Data\\Repository\\ProductoRepository.cs",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\Repository\\ProductoRepository.cs",
-              "RelativeToolTip": "UTN.Inc.Data\\Repository\\ProductoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T18:35:19.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CompraController.cs",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.WebApplication\\Controllers\\CompraController.cs",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Controllers\\CompraController.cs",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.WebApplication\\Controllers\\CompraController.cs",
-              "RelativeToolTip": "UTN.WebApplication\\Controllers\\CompraController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T18:08:02.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductoLogica.cs",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Business\\ProductoLogica.cs",
-              "RelativeDocumentMoniker": "UTN.Inc.Business\\ProductoLogica.cs",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Business\\ProductoLogica.cs",
-              "RelativeToolTip": "UTN.Inc.Business\\ProductoLogica.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAIwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T17:44:06.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioLogica.cs",
-              "DocumentMoniker": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Business\\UsuarioLogica.cs",
-              "RelativeDocumentMoniker": "UTN.Inc.Business\\UsuarioLogica.cs",
-              "ToolTip": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Business\\UsuarioLogica.cs",
-              "RelativeToolTip": "UTN.Inc.Business\\UsuarioLogica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T17:01:56.961Z",
+              "WhenOpened": "2024-06-23T15:36:43.954Z",
               "EditorCaption": ""
             }
           ]

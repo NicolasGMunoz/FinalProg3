@@ -6,6 +6,8 @@ using UTN.Inc.Data.DBContext;
 using Microsoft.EntityFrameworkCore;
 using UTN.Inc.Data.Repository;
 
+
+
 //INYECCION DE DEPENDENCIAS
 var serviceProvider = new ServiceCollection()
     .AddDbContext<UtnincContext>(options => options.UseSqlServer("Server=(local); DataBase=UTNINC;Integrated Security=true; TrustServerCertificate=True"))
@@ -17,6 +19,8 @@ var serviceProvider = new ServiceCollection()
 
 var usuarioServicios = serviceProvider.GetRequiredService<UsuarioLogica>();
 var productoServicios = serviceProvider.GetRequiredService<ProductoLogica>();
+
+//==========================================================================================================================================================//
 
 bool flag = true;
 while (flag) 
@@ -31,20 +35,21 @@ while (flag)
 
     switch (Console.ReadLine()) 
     {
-            case "1":
-                if (usuarioServicios.ValidarUsuario()) 
-                { 
-                    flag = false; 
-                    
-                }
-            
+        case "1":
+            if (usuarioServicios.ValidarUsuario())
+            {
+                flag = false;
+
+            }
             break;
-            case "2":
+        case "2":
             usuarioServicios.RegistrarUsuario();
             break;
-            default:
+        case "3":
+            Environment.Exit(0);
+            break;
+        default:
             Console.WriteLine("Error opcion no valida!");
-            
             break;
     }
 
@@ -52,35 +57,48 @@ while (flag)
     Console.Clear();
 }
 
-//var ABMProductos = new ProductoLogica();
-Console.WriteLine("MENU DE OPERACIONES DE PRODUCTOS:");
-Console.WriteLine("=================================");
-Console.WriteLine("1.ALTA DE PRODUCTOS \n2.MODIFICACION DE PRODUCTOS \n3.BAJA DE PRODUCTOS \n4.LISTAR TODOS LOS PRODUCTOS \n5.SALIR");
-var Opc = Convert.ToInt32(Console.ReadLine());
+//======================================================================================================================================================//
+
+bool flag2 = true;
+while (flag2)
+{
+    Console.WriteLine("MENU DE OPERACIONES DE PRODUCTOS:");
+    Console.WriteLine("=================================");
+    Console.WriteLine("1.ALTA DE PRODUCTOS \n2.MODIFICACION DE PRODUCTOS \n3.BAJA DE PRODUCTOS \n4.LISTAR TODOS LOS PRODUCTOS \n5.SALIR");
+    var Opc = Convert.ToInt32(Console.ReadLine());
 
 
-switch (Opc) 
-{ 
+    switch (Opc) 
+    { 
         case 1:
         //ALTA
-        productoServicios.Alta();
-        break;
+            productoServicios.Alta();
+            Console.WriteLine();
+            break;
         case 2:
         //MODIFICACION
-        productoServicios.Modificacion();
-        break;
+            productoServicios.Modificacion();
+            Console.WriteLine();
+            break;
         case 3:
         //BAJA  
-        productoServicios.Baja();
-        break;
+            productoServicios.Baja();
+            Console.WriteLine();
+            break;
         case 4:
-        productoServicios.ListarTodosLosProductos();
-        
-        break;
+        //LISTAR
+            productoServicios.ListarTodosLosProductos();
+            Console.WriteLine();
+            break;
+        case 5:
+            flag2 = false;
+            Environment.Exit(0);
+            break;
         default:
-        Console.WriteLine("Falta aplicar llamada");
+            Console.WriteLine("Opcion no valida!");
         break;
 
+    }
 }
 
 
@@ -89,38 +107,6 @@ switch (Opc)
 
 
 
-
-//var usuarios = new UsuarioLogica();
-
-//var nombre = usuarios.ObtenerUsuarios();
-
-//foreach (var usuario in nombre)
-//{
-//    Console.WriteLine(usuario.ToString());
-//}
-
-//var nombreid = usuarios.ObtenerUsuarioPorID(4);
-////foreach (var x in nombre)
-//{
-//    Console.WriteLine(x.ToString());
-//}
-
-
-//var prodRepo = new ProductoLogica();
-
-//var result = prodRepo.ObtenerProductos();
-
-//foreach (var prod in result) 
-//{ 
-//    Console.WriteLine(prod);    
-//}
-
-
-//var prodDesh = prodRepo.ObtenerProductosDeshabilitados();
-//foreach (var x in prodDesh) 
-//{ 
-//    Console.WriteLine(x.ToString());
-//}
 
 
 

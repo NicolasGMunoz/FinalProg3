@@ -164,6 +164,7 @@ namespace UTN.Inc.Business
             { 
                 Console.WriteLine($"ID:{item.ProductoId} Nombre: {item.ProductoNombre} Categoria: {item.CategoriaNombre}");
             }
+            return;
         }
        
         

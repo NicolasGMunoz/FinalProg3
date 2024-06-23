@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {}
+    "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {}
   },
   "projects": {
-    "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {
+    "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
+        "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
         "projectName": "UTN.Inc.Configuration",
-        "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
+        "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\UTN.Inc.Configuration.csproj",
         "packagesPath": "C:\\Users\\manu9\\.nuget\\packages\\",
-        "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Configuration\\obj\\",
+        "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manu9\\AppData\\Roaming\\NuGet\\NuGet.Config",

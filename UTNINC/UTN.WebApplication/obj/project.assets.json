@@ -9287,11 +9287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.WebApplication\\UTN.WebApplication.csproj",
+      "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj",
       "projectName": "UTN.WebApplication",
-      "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.WebApplication\\UTN.WebApplication.csproj",
+      "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj",
       "packagesPath": "C:\\Users\\manu9\\.nuget\\packages\\",
-      "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.WebApplication\\obj\\",
+      "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manu9\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9308,14 +9308,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Business\\UTN.Inc.Business.csproj": {
-              "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Business\\UTN.Inc.Business.csproj"
+            "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UTN.Inc.Business.csproj": {
+              "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\UTN.Inc.Business.csproj"
             },
-            "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\UTN.Inc.Data.csproj": {
-              "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Data\\UTN.Inc.Data.csproj"
+            "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj": {
+              "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Data\\UTN.Inc.Data.csproj"
             },
-            "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
-              "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
+            "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+              "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
             }
           }
         }

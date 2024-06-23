@@ -45,3 +45,15 @@ E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINC
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Entities\obj\Debug\net8.0\refint\UTN.Inc.Entities.dll
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.pdb
 E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\UTN.Inc.Entities\obj\Debug\net8.0\ref\UTN.Inc.Entities.dll
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.deps.json
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.dll
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.pdb
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.AssemblyInfoInputs.cache
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.AssemblyInfo.cs
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.csproj.CoreCompileInputs.cache
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.sourcelink.json
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.dll
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\refint\UTN.Inc.Entities.dll
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.pdb
+E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\ref\UTN.Inc.Entities.dll

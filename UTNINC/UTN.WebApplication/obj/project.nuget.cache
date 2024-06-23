@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aUz0DiGGFcbnPK93Ed/smZO62IcXL7x1jci2AKE34WlVsjshCOByOrBOYghckOoPfyy2q4aW1YtoLVa8LyWzoA==",
+  "dgSpecHash": "R/5H5TFox9372vPD+Jc+FkPm6+1W66NRIvQVEb0+FwqIQGdmukMZQf6sYMpPRk09eXwrmTsEiHK1c2jSphgTmw==",
   "success": true,
-  "projectFilePath": "E:\\Carpetas\\Documentos\\UTN TUP\\PROGRAMACION 2024\\TPI 2024\\App ASP.NET MVC\\UTNINCV3\\UTN.WebApplication\\UTN.WebApplication.csproj",
+  "projectFilePath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\UTN.WebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manu9\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\manu9\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

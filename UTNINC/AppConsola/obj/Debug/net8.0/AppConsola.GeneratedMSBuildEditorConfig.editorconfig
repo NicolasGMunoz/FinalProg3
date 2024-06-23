@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppConsola
-build_property.ProjectDir = E:\Carpetas\Documentos\UTN TUP\PROGRAMACION 2024\TPI 2024\App ASP.NET MVC\UTNINCV3\AppConsola\
+build_property.ProjectDir = E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\AppConsola\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
