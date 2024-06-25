@@ -132,6 +132,12 @@ namespace UTN.Inc.Business
                 return VerifPassHash(password, u.Hash, u.Salt);
             }
         }
+
+        public int RetornarID(string username)
+        {
+            var u = _usuaRepo.ObtenerUsuarioBD(username).UsuarioId;
+            return u;
+        }
     }
 }
 

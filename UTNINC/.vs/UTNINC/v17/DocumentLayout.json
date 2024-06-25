@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\views\\compra\\ventadetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\compra\\ventadetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\views\\compra\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\compra\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.inc.business\\ventalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|solutionrelative:utn.inc.business\\ventalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.inc.business\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5955A6AE-8D08-48D0-8DB6-9410C81F00C6}|UTN.Inc.Business\\UTN.Inc.Business.csproj|solutionrelative:utn.inc.business\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2FF449-ECAD-4576-89F2-3A68EDAAC476}|UTN.Inc.Data\\UTN.Inc.Data.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.inc.data\\repository\\comprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2FF449-ECAD-4576-89F2-3A68EDAAC476}|UTN.Inc.Data\\UTN.Inc.Data.csproj|solutionrelative:utn.inc.data\\repository\\comprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|c:\\users\\nicolas\\desktop\\prog3 definitivo\\finalprog3\\utninc\\utn.webapplication\\views\\compra\\compraproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}|UTN.WebApplication\\UTN.WebApplication.csproj|solutionrelative:utn.webapplication\\views\\compra\\compraproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,84 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CompraRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.Inc.Data\\Repository\\CompraRepository.cs",
-              "RelativeDocumentMoniker": "UTN.Inc.Data\\Repository\\CompraRepository.cs",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.Inc.Data\\Repository\\CompraRepository.cs",
-              "RelativeToolTip": "UTN.Inc.Data\\Repository\\CompraRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:25:38.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CompraLogica.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\CompraLogica.cs",
-              "RelativeDocumentMoniker": "UTN.Inc.Business\\CompraLogica.cs",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\CompraLogica.cs",
-              "RelativeToolTip": "UTN.Inc.Business\\CompraLogica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:24:57.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Program.cs",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Program.cs",
-              "RelativeToolTip": "UTN.WebApplication\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:57:58.132Z",
+              "Title": "CompraProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Views\\Compra\\CompraProducto.cshtml",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Compra\\CompraProducto.cshtml",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Views\\Compra\\CompraProducto.cshtml",
+              "RelativeToolTip": "UTN.WebApplication\\Views\\Compra\\CompraProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T05:27:05.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VentaDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Views\\Compra\\VentaDetail.cshtml",
-              "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Compra\\VentaDetail.cshtml",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Views\\Compra\\VentaDetail.cshtml",
-              "RelativeToolTip": "UTN.WebApplication\\Views\\Compra\\VentaDetail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T03:13:46.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UTN.WebApplication\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UTN.WebApplication\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:11:30.735Z",
+              "WhenOpened": "2024-06-25T05:23:43.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VentaLogica.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\VentaLogica.cs",
-              "RelativeDocumentMoniker": "UTN.Inc.Business\\VentaLogica.cs",
-              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\VentaLogica.cs",
-              "RelativeToolTip": "UTN.Inc.Business\\VentaLogica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:54:54.018Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UTN.WebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T05:20:39.968Z",
               "EditorCaption": ""
             },
             {
@@ -130,22 +83,35 @@
               "RelativeDocumentMoniker": "UTN.WebApplication\\Views\\Compra\\Profile.cshtml",
               "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Views\\Compra\\Profile.cshtml",
               "RelativeToolTip": "UTN.WebApplication\\Views\\Compra\\Profile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABvAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T02:53:14.731Z",
+              "WhenOpened": "2024-06-25T05:09:30.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CompraController.cs",
               "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Controllers\\CompraController.cs",
               "RelativeDocumentMoniker": "UTN.WebApplication\\Controllers\\CompraController.cs",
               "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.WebApplication\\Controllers\\CompraController.cs",
               "RelativeToolTip": "UTN.WebApplication\\Controllers\\CompraController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAA2AAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCYAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:19:11.959Z",
+              "WhenOpened": "2024-06-25T05:05:21.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentaLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\VentaLogica.cs",
+              "RelativeDocumentMoniker": "UTN.Inc.Business\\VentaLogica.cs",
+              "ToolTip": "C:\\Users\\Nicolas\\Desktop\\prog3 definitivo\\FinalProg3\\UTNINC\\UTN.Inc.Business\\VentaLogica.cs",
+              "RelativeToolTip": "UTN.Inc.Business\\VentaLogica.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:05:15.765Z",
               "EditorCaption": ""
             }
           ]

@@ -1,13 +1,13 @@
-﻿@model IEnumerable<UTN.Inc.Entities.ProductoCategoriaDTO>
+﻿@model dynamic;
 
 @{
     ViewData["Title"] = "Productos";
 }
 
 <div>
-    <button>@Html.ActionLink("Ver Ventas", "VentaDetail", "Compra")</button>
+    <button>@Html.ActionLink("Ver Ventas", "VentaDetail")</button>
 </div>
-<h2>Productos</h2>
+<h2>@Model.Username</h2>
 
 <table class="table">
     <thead>
@@ -19,19 +19,19 @@
     </thead>
     <tbody>
        
-            @foreach (var item in Model)
+            @foreach (var item in Model.NewList)
             {
                 <tr>
                     <td>@item.ProductoId</td>
                     <td>@item.ProductoNombre</td>
                     <td>@item.CategoriaNombre</td>
                 <td>
-                    <form id="FormCompra" action="@Url.Action("Compra","Compra")">
+                    <form id="FormCompra" action="@Url.Action("CompraProducto","Compra")" method="post">
                         <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
                         <input type="date" id="fechaCompra-@item.ProductoId" name="fechaCompra" value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
                         <button type="Submit" id="btnComprar">Comprar</button>
                     </form>
-                    <form id="FormVenta" action="@Url.Action("Venta","Compra")">
+                    <form id="FormVenta" action="@Url.Action("Venta","Compra")" method="post">
                         <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
                         <input type="date" id="fechaVenta-@item.ProductoId" name="fechaVenta" value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
                         <button type="Submit" id="btnVender">Vender</button>
@@ -47,4 +47,11 @@
        
     </tbody>
 </table>
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        alert('@ViewBag.Message');
+    </script>
+}
 

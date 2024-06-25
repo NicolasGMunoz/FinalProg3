@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UTN.Inc.Entities;
+﻿
+using Microsoft.EntityFrameworkCore;
 using UTN.Inc.Data.DBContext;
+using UTN.Inc.Entities;
 
 namespace UTN.Inc.Data.Repository
 {
@@ -12,10 +9,34 @@ namespace UTN.Inc.Data.Repository
     {
         private readonly UtnincContext _ventaRepo;
 
-        public VentaRepository(UtnincContext ventaRepo)
+        public VentaRepository(UtnincContext context)
         {
-            _ventaRepo = ventaRepo;
+            _ventaRepo = context;
+        }
+
+        //MODIFICAR STOCK
+
+        public void ModificarStock(Venta venta)
+        {
+            _ventaRepo.Venta.Add(venta);
+            _ventaRepo.SaveChanges();
+        }
+
+        //CHEQUEAR STOCK
+        public async Task<int> ChequearStock(int productoID)
+        {
+
+
+            var compras = await _ventaRepo.Compras
+                .Where(c => c.ProductoId == productoID)
+                .SumAsync(c => c.Cantidad);
+
+            var ventas = await _ventaRepo.Venta
+                .Where(v => v.ProductoId == productoID)
+                .SumAsync(v => v.Cantidad);
+
+            return ((int)compras - (int)ventas);
+
         }
     }
-
 }

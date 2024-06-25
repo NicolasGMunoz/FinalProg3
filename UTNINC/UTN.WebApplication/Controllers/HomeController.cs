@@ -35,6 +35,7 @@ namespace UTN.WebApplication.Controllers
         {
             string user = username;
             string pass = password;
+            int? userid = _logica.RetornarID(username);
 
 
             bool b = _logica.ValidarUsuarioWeb(user, pass);
@@ -42,7 +43,9 @@ namespace UTN.WebApplication.Controllers
 
              if (b)
              {
-               return RedirectToAction("Profile", "Compra");
+                TempData["userID"] = userid;
+                TempData["username"] = user;
+                return RedirectToAction("Profile", "Compra");
               }
                else { return RedirectToAction("Error"); }
         }
