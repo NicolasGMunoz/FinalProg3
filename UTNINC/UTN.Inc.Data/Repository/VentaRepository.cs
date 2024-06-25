@@ -38,5 +38,11 @@ namespace UTN.Inc.Data.Repository
             return ((int)compras - (int)ventas);
 
         }
+        //OBTENER TODAS LAS VENTAS
+        public List<Venta> ObtenerVentas()
+        {
+            return _ventaRepo.Venta.ToList();
+        }
+
     }
 }

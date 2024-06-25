@@ -27,13 +27,14 @@
                     <td>@item.CategoriaNombre</td>
                 <td>
                     <form id="FormCompra" action="@Url.Action("CompraProducto","Compra")" method="post">
+                        <input type="hidden" id="id-@item.ProductoId" name="productoID" value="@item.ProductoId" />
                         <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
                         <input type="date" id="fechaCompra-@item.ProductoId" name="fechaCompra" value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
                         <button type="Submit" id="btnComprar">Comprar</button>
                     </form>
-                    <form id="FormVenta" action="@Url.Action("Venta","Compra")" method="post">
+                    <form id="FormVenta" action="@Url.Action("VentaProducto","Compra")" method="post">
+                        <input type="hidden" id="id-@item.ProductoId" name="productoID" value="@item.ProductoId" />
                         <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
-                        <input type="date" id="fechaVenta-@item.ProductoId" name="fechaVenta" value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
                         <button type="Submit" id="btnVender">Vender</button>
                     </form>
 

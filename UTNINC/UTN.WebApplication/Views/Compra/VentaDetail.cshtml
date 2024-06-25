@@ -1,7 +1,33 @@
-﻿
+﻿@model  IEnumerable<UTN.Inc.Entities.Venta>
 @{
     ViewData["Title"] = "VentaDetail";
 }
 
 <h1>VentaDetail</h1>
 
+<table class="table">
+    <thead>
+        <tr>
+            <th>Venta ID</th>
+            <th>Fecha</th>
+            <th>Usuario ID</th>
+            <th>Producto ID</th>
+            <th>Cantidad</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.VentaId</td>
+                <td>@item.Fecha</td>
+                <td>@item.UsuarioId</td>
+                <td>@item.ProductoId</td>
+                <td>@item.Cantidad</td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>

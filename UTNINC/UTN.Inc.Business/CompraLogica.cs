@@ -24,16 +24,16 @@ namespace UTN.Inc.Business
             //FECHA, PRODUCTOID, CANTIDAD, USUARIOID
 
             //FECHA
-            //DateTime fechaHora = 
+            DateOnly fechaHora = DateOnly.FromDateTime(DateTime.Now);
 
             //PRODUCTO ID
-            int pId = 0;
+            int pId = productoId;
 
             //CANTIDAD
-            int cant = 0;
+            int cant = cantidad;
 
             //USUARIOID
-            int usId = 0;
+            int usId = usuarioId;
 
             //SI TODO ESTA BIEN
             if ((cant != 0) && (usId != 0) && (pId != 0))
@@ -43,7 +43,7 @@ namespace UTN.Inc.Business
 
                 Compra compra = new()
                 {
-                    //Fecha = lafecha,
+                    Fecha = fechaHora,
                     ProductoId = pId,
                     Cantidad = stock,
                     UsuarioId = usId,

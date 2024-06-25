@@ -69,3 +69,15 @@ C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Entities\obj
 C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\refint\UTN.Inc.Entities.dll
 C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.pdb
 C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\ref\UTN.Inc.Entities.dll
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.deps.json
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.dll
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\bin\Debug\net8.0\UTN.Inc.Entities.pdb
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.AssemblyInfoInputs.cache
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.AssemblyInfo.cs
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.sourcelink.json
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.dll
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\refint\UTN.Inc.Entities.dll
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\UTN.Inc.Entities.pdb
+C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.Inc.Entities\obj\Debug\net8.0\ref\UTN.Inc.Entities.dll

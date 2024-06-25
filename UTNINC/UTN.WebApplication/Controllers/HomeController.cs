@@ -35,7 +35,7 @@ namespace UTN.WebApplication.Controllers
         {
             string user = username;
             string pass = password;
-            int? userid = _logica.RetornarID(username);
+            int userid = _logica.RetornarID(username);
 
 
             bool b = _logica.ValidarUsuarioWeb(user, pass);

@@ -26,13 +26,13 @@ namespace UTN.Inc.Business
 
 
             //PRODUCTO ID
-            int pId = 0;
+            int pId = productoId;
 
             //CANTIDAD
-            int cant = 0;
+            int cant = cantidad;
 
             //USUARIOID
-            int usId = 0;
+            int usId = usuarioId;
 
             //SI TODO ESTA BIEN
             if ((cant != 0) && (usId != 0) && (pId != 0))
@@ -61,8 +61,11 @@ namespace UTN.Inc.Business
             }
             return false;
 
-
-
+        }
+        public List<Venta> ListarVentas()
+        {
+            var result = _ventaRepository.ObtenerVentas();
+            return result;
         }
     }
 }

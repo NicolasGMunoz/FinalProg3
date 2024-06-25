@@ -20,30 +20,30 @@ namespace UTN.WebApplication.Controllers
 
         public IActionResult Profile()
         {
-            int? userID = TempData["userID"] as int?;
             var username = TempData["username"] as string;
             var newList = _productoLogica.ObtenerProductosWeb();
 
-            var modeloAnonimo = new { UserID = userID, Username = username, NewList = newList  };
+            var modeloAnonimo = new {Username = username, NewList = newList  };
 
             return View(modeloAnonimo);
 
         }
 
         public IActionResult VentaDetail()
-        {
-            return View();
+        {   
+            var newList = _ventaLogica.ListarVentas();
+            return View(newList);
         }
 
         [HttpPost]
-        public async Task<IActionResult> CompraProducto(int productoID, int cantidad, int usuarioID, string fechaCompra)
+        public async Task<IActionResult> CompraProducto(int productoID, int cantidad, string fechaCompra)
         {
             int pid = productoID;
             int cant = cantidad;
-            int? uid = TempData["userID"] as int?;
+            int userID = Int32.Parse(TempData["userID"].ToString());
             TempData.Keep("userID");
             DateTime fecha = DateTime.Parse(fechaCompra);
-            bool b = await _compraLogica.SumarStock(fecha, pid, cant, usuarioID);
+            bool b = await _compraLogica.SumarStock(fecha, pid, cant, userID);
             if (b)
             {
                 ViewBag.Message = "Compra Realizada";
@@ -52,31 +52,31 @@ namespace UTN.WebApplication.Controllers
             else
             {
                 ViewBag.Message = "Error en la compra, intente nuevamente";
-                return View();
+                return RedirectToAction("Profile", "Compra");
             }
             
         }
 
 
         [HttpPost]
-        public IActionResult VentaProducto(int productoID, int cantidad, int usuarioID, string fechaVenta)
+        public async Task<IActionResult> VentaProducto(int productoID, int cantidad)
         {
             int pid = productoID;
             int cant = cantidad;
-            int uid = usuarioID;
-            string fecha = fechaVenta;
-            TempData.Keep();
-            //int stock = consultar en producto su stock;
-            //if (stock >= cant )
-            //{
-            //    //generar venta
-            //}
-            //else
-            //{
-            //    //generar error
-            //}
+            int userID = Int32.Parse(TempData["userID"].ToString());
+            TempData.Keep("userID");
+            bool b = await _ventaLogica.RestarStock(pid, cant, userID);
+            if (b)
+            {
+                ViewBag.Message = "Venta Realizada";
+                return RedirectToAction("Profile", "Compra");
+            }
+            else
+            {
+                return View();
 
-            return View();
+            }
+            
         }
     }
 }
