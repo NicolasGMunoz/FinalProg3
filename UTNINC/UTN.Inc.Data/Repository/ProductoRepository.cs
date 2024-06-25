@@ -29,7 +29,11 @@ namespace UTN.Inc.Data.Repository
 
         public bool BajaProducto(int idProducto)
         {
-            Producto borrar = _prodRepo.Producto.FirstOrDefault(p => p.ProductoId == idProducto);
+            var borrar = _prodRepo.Producto.SingleOrDefault(p => p.ProductoId == idProducto);
+            var compras = _prodRepo.Compras.Where(c => c.ProductoId == idProducto).ToList();
+            _prodRepo.Compras.RemoveRange(compras);
+            var ventas = _prodRepo.Venta.Where(v => v.ProductoId == idProducto).ToList();
+            _prodRepo.Venta.RemoveRange(ventas);
             if (borrar != null)
             {
                 _prodRepo.Producto.Remove(borrar);

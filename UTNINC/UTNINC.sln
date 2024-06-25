@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIStock", "API-Stock\APISt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTN.WebApplication", "UTN.WebApplication\UTN.WebApplication.csproj", "{D53277F8-4465-4DB1-9C0D-4C509B1F74DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTN.Inc.Configuration", "UTN.Inc.Configuration\UTN.Inc.Configuration.csproj", "{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTN.Inc.Configuration", "UTN.Inc.Configuration\UTN.Inc.Configuration.csproj", "{6803B3EE-DCA8-4502-89BE-CD3D03E134D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
