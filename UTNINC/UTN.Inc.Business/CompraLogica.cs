@@ -24,7 +24,7 @@ namespace UTN.Inc.Business
             //FECHA, PRODUCTOID, CANTIDAD, USUARIOID
 
             //FECHA
-            DateOnly fechaHora = DateOnly.FromDateTime(DateTime.Now);
+            DateOnly fechaHora = DateOnly.FromDateTime(fecha);
 
             //PRODUCTO ID
             int pId = productoId;
@@ -38,14 +38,14 @@ namespace UTN.Inc.Business
             //SI TODO ESTA BIEN
             if ((cant != 0) && (usId != 0) && (pId != 0))
             {
-                var stock = await _compraRepository.ChequearStock(pId) + cant;
+                //var stock = await _compraRepository.ChequearStock(pId) + cant;
 
 
                 Compra compra = new()
                 {
                     Fecha = fechaHora,
                     ProductoId = pId,
-                    Cantidad = stock,
+                    Cantidad = cant,
                     UsuarioId = usId,
                 };
 
