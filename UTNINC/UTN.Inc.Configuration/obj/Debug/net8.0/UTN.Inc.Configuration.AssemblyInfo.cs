@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTN.Inc.Configuration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e81bdc59c32dfe98fca96b1174cc907107ed4758")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9330612d3cc07698ca0d1abb3e834fd5c95024d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTN.Inc.Configuration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTN.Inc.Configuration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

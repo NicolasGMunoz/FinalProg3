@@ -14,6 +14,10 @@ builder.Services.AddScoped<UsuarioRepository>();
 builder.Services.AddScoped<ProductoLogica>();
 builder.Services.AddScoped<ProductoRepository>();
 builder.Services.AddScoped<UtnincContext>();
+builder.Services.AddScoped<CompraRepository>();
+builder.Services.AddScoped<CompraLogica>();
+builder.Services.AddScoped<VentaRepository>();
+builder.Services.AddScoped<VentaLogica>();
 
 builder.Services.AddControllersWithViews();
 

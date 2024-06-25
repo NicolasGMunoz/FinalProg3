@@ -4,6 +4,9 @@
     ViewData["Title"] = "Productos";
 }
 
+<div>
+    <button>@Html.ActionLink("Ver Ventas", "VentaDetail", "Compra")</button>
+</div>
 <h2>Productos</h2>
 
 <table class="table">
@@ -23,11 +26,20 @@
                     <td>@item.ProductoNombre</td>
                     <td>@item.CategoriaNombre</td>
                 <td>
-                    <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
+                    <form id="FormCompra" action="@Url.Action("Compra","Compra")">
+                        <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
+                        <input type="date" id="fechaCompra-@item.ProductoId" name="fechaCompra" value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
+                        <button type="Submit" id="btnComprar">Comprar</button>
+                    </form>
+                    <form id="FormVenta" action="@Url.Action("Venta","Compra")">
+                        <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
+                        <input type="date" id="fechaVenta-@item.ProductoId" name="fechaVenta" value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
+                        <button type="Submit" id="btnVender">Vender</button>
+                    </form>
+
                 </td>
                 <td>
-                    <button type="button">Comprar</button>
-                    <button type="button">Vender</button>
+
                 </td>
                 </tr>
             }

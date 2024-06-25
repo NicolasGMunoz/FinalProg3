@@ -74,3 +74,23 @@ E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Busine
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\refint\UTN.Inc.Business.dll
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.pdb
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\ref\UTN.Inc.Business.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Business.deps.json
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Business.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Business.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Configuration.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Data.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Entities.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Data.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Entities.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\bin\Debug\net8.0\UTN.Inc.Configuration.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.sourcelink.json
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc..A576F79D.Up2Date
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\refint\UTN.Inc.Business.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\UTN.Inc.Business.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Business\obj\Debug\net8.0\ref\UTN.Inc.Business.dll

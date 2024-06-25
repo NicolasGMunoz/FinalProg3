@@ -74,3 +74,23 @@ E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Data\o
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.pdb
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.genruntimeconfig.cache
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\ref\UTN.Inc.Data.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\bin\Debug\net8.0\UTN.Inc.Data.deps.json
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\bin\Debug\net8.0\UTN.Inc.Data.runtimeconfig.json
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\bin\Debug\net8.0\UTN.Inc.Data.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\bin\Debug\net8.0\UTN.Inc.Data.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\bin\Debug\net8.0\UTN.Inc.Configuration.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\bin\Debug\net8.0\UTN.Inc.Entities.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\bin\Debug\net8.0\UTN.Inc.Configuration.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\bin\Debug\net8.0\UTN.Inc.Entities.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.sourcelink.json
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc..E7124B88.Up2Date
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\refint\UTN.Inc.Data.dll
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.pdb
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\UTN.Inc.Data.genruntimeconfig.cache
+C:\Users\Nicolas\Desktop\prog3 definitivo\FinalProg3\UTNINC\UTN.Inc.Data\obj\Debug\net8.0\ref\UTN.Inc.Data.dll
