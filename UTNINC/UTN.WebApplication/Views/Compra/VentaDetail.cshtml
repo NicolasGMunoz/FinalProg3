@@ -1,4 +1,4 @@
-﻿@model  IEnumerable<UTN.Inc.Entities.Venta>
+﻿@model  IEnumerable<UTN.Inc.Entities.VentaDTO>
 @{
     ViewData["Title"] = "VentaDetail";
 }
@@ -9,9 +9,11 @@
     <thead>
         <tr>
             <th>Venta ID</th>
-            <th>Fecha</th>
+            <th>Fecha</th>         
             <th>Usuario ID</th>
+            <th>Usuario</th>
             <th>Producto ID</th>
+            <th>Producto</th>
             <th>Cantidad</th>
         </tr>
     </thead>
@@ -20,10 +22,12 @@
         @foreach (var item in Model)
         {
             <tr>
-                <td>@item.VentaId</td>
+                <td>@item.VentaID</td>
                 <td>@item.Fecha</td>
-                <td>@item.UsuarioId</td>
-                <td>@item.ProductoId</td>
+                <td>@item.UsuarioID</td>
+                <td>@item.NombreUsuario</td>
+                <td>@item.ProductoID</td>
+                <td>@item.NombreProducto</td>
                 <td>@item.Cantidad</td>
             </tr>
         }
@@ -31,3 +35,4 @@
 
     </tbody>
 </table>
+<button type="button" onclick="location.href='@Url.Action("Profile", "Compra")'">Volver a Profile</button>

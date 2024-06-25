@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\MegaTecnologia\Desktop\Este2\UTNINC\UTN.WebApplication
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/MegaTecnologia/Desktop/Este2/UTNINC/UTN.WebApplication/Views/Compra/CompraProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhXENvbXByYVByb2R1Y3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MegaTecnologia/Desktop/Este2/UTNINC/UTN.WebApplication/Views/Compra/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhXFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

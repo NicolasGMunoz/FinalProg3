@@ -67,5 +67,11 @@ namespace UTN.Inc.Business
             var result = _ventaRepository.ObtenerVentas();
             return result;
         }
+
+        public IQueryable<VentaDTO> ListarVentasConDatos()
+        {
+            var result = _ventaRepository.ObtenerVentasFull();
+            return result;
+        }
     }
 }

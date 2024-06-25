@@ -7,7 +7,18 @@
 <div>
     <button>@Html.ActionLink("Ver Ventas", "VentaDetail")</button>
 </div>
+
+
+@{
+    DateTime today = DateTime.Now;
+    DateTime minDate = today.AddDays(-7);
+    DateTime maxDate = today;
+
+    string minDateString = minDate.ToString("yyyy-MM-dd");
+    string maxDateString = maxDate.ToString("yyyy-MM-dd");
+}
 <h2>@Model.Username</h2>
+
 
 <table class="table">
     <thead>
@@ -29,7 +40,7 @@
                     <form id="FormCompra" action="@Url.Action("CompraProducto","Compra")" method="post">
                         <input type="hidden" id="id-@item.ProductoId" name="productoID" value="@item.ProductoId" />
                         <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
-                        <input type="date" id="fechaCompra-@item.ProductoId" name="fechaCompra" value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
+                        <input type="date" id="fechaCompra-@item.ProductoId" name="fechaCompra" value="@DateTime.Now.ToString("yyyy-MM-dd")" min="@minDateString" max="@maxDateString" required />
                         <button type="Submit" id="btnComprar">Comprar</button>
                     </form>
                     <form id="FormVenta" action="@Url.Action("VentaProducto","Compra")" method="post">

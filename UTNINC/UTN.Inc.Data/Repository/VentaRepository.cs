@@ -44,5 +44,24 @@ namespace UTN.Inc.Data.Repository
             return _ventaRepo.Venta.ToList();
         }
 
+        //OBTENER TODAS LAS VENTAS CON NOMBRE DE PRODUCTO Y NOMBRE DE USUARIO
+        public IQueryable<VentaDTO> ObtenerVentasFull()
+        {
+            return (from Usuario in _ventaRepo.Usuarios
+                    join Venta in _ventaRepo.Venta on Usuario.UsuarioId equals Venta.UsuarioId
+                    join Producto in _ventaRepo.Producto on Venta.ProductoId equals Producto.ProductoId
+                    select new VentaDTO
+                    {
+                        VentaID = Venta.VentaId,
+                        Fecha = Venta.Fecha,
+                        NombreProducto = Producto.Nombre,
+                        ProductoID = Producto.ProductoId,
+                        Cantidad = Venta.Cantidad,
+                        NombreUsuario = Usuario.Nombre,
+                        UsuarioID = Usuario.UsuarioId,
+
+                    });
+        }
+
     }
 }

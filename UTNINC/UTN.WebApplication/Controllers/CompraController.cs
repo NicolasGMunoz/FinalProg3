@@ -31,7 +31,7 @@ namespace UTN.WebApplication.Controllers
 
         public IActionResult VentaDetail()
         {   
-            var newList = _ventaLogica.ListarVentas();
+            var newList = _ventaLogica.ListarVentasConDatos();
             return View(newList);
         }
 
@@ -43,17 +43,19 @@ namespace UTN.WebApplication.Controllers
             int userID = Int32.Parse(TempData["userID"].ToString());
             TempData.Keep("userID");
             DateTime fecha = DateTime.Parse(fechaCompra);
-            bool b = await _compraLogica.SumarStock(fecha, pid, cant, userID);
-            if (b)
-            {
-                ViewBag.Message = "Compra Realizada";
-                return RedirectToAction("Profile", "Compra");
-            }
-            else
-            {
-                ViewBag.Message = "Error en la compra, intente nuevamente";
-                return RedirectToAction("Profile", "Compra");
-            }
+            
+            
+                bool b = await _compraLogica.SumarStock(fecha, pid, cant, userID);
+                if (b)
+                {
+                    ViewBag.Message = "Compra Realizada";
+                    return RedirectToAction("Profile", "Compra");
+                }
+                else
+                {
+                    ViewBag.Message = "Error en la compra, intente nuevamente";
+                    return RedirectToAction("Profile", "Compra");
+                }    
             
         }
 
