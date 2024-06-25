@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\API-Stock\\APIStock.csproj": {}
+    "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\API-Stock\\APIStock.csproj": {}
   },
   "projects": {
-    "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\API-Stock\\APIStock.csproj": {
+    "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\API-Stock\\APIStock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\API-Stock\\APIStock.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\API-Stock\\APIStock.csproj",
         "projectName": "APIStock",
-        "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\API-Stock\\APIStock.csproj",
-        "packagesPath": "C:\\Users\\manu9\\.nuget\\packages\\",
-        "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\API-Stock\\obj\\",
+        "projectPath": "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\API-Stock\\APIStock.csproj",
+        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\API-Stock\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\manu9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
-                "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
+              "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+                "projectPath": "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj"
               }
             }
           }
@@ -95,21 +99,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
+    "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
         "projectName": "UTN.Inc.Entities",
-        "projectPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
-        "packagesPath": "C:\\Users\\manu9\\.nuget\\packages\\",
-        "outputPath": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\obj\\",
+        "projectPath": "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\UTN.Inc.Entities.csproj",
+        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolas\\Desktop\\Proyecto Final Prog 3\\FinalProg3\\UTNINC\\UTN.Inc.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\manu9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,7 +163,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

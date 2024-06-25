@@ -58,3 +58,15 @@ E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\FinalProg3\UTNINC\UTN
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\refint\UTN.Inc.Configuration.dll
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.pdb
 E:\Carpetas\Documentos\UTN TUP\repos\Repo pulpo\FinalProg3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\ref\UTN.Inc.Configuration.dll
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.deps.json
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.dll
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\bin\Debug\net8.0\UTN.Inc.Configuration.pdb
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.sourcelink.json
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.dll
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\refint\UTN.Inc.Configuration.dll
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\UTN.Inc.Configuration.pdb
+C:\Users\Nicolas\Desktop\Proyecto Final Prog 3\FinalProg3\UTNINC\UTN.Inc.Configuration\obj\Debug\net8.0\ref\UTN.Inc.Configuration.dll

@@ -59,11 +59,9 @@
        
     </tbody>
 </table>
-
-@if (ViewBag.Message != null)
+@if (TempData["Message"] != null)
 {
     <script type="text/javascript">
-        alert('@ViewBag.Message');
+        alert('@TempData["Message"]');
     </script>
 }
-

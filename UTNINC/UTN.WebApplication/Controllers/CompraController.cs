@@ -48,15 +48,15 @@ namespace UTN.WebApplication.Controllers
                 bool b = await _compraLogica.SumarStock(fecha, pid, cant, userID);
                 if (b)
                 {
-                    ViewBag.Message = "Compra Realizada";
-                    return RedirectToAction("Profile", "Compra");
+                TempData["Message"] = "Compra Realizada";
+
                 }
                 else
                 {
-                    ViewBag.Message = "Error en la compra, intente nuevamente";
-                    return RedirectToAction("Profile", "Compra");
-                }    
-            
+                TempData["Message"] = "Error en la compra";
+
+                }
+                return RedirectToAction("Profile", "Compra");
         }
 
 
@@ -70,15 +70,14 @@ namespace UTN.WebApplication.Controllers
             bool b = await _ventaLogica.RestarStock(pid, cant, userID);
             if (b)
             {
-                ViewBag.Message = "Venta Realizada";
-                return RedirectToAction("Profile", "Compra");
+                TempData["Message"] = "Venta Realizada";
             }
             else
             {
-                return View();
+                TempData["Message"] = "Error en la venta";
 
             }
-            
+            return RedirectToAction("Profile", "Compra");
         }
     }
 }
