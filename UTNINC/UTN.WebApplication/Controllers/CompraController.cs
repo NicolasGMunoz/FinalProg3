@@ -74,7 +74,7 @@ namespace UTN.WebApplication.Controllers
             }
             else
             {
-                TempData["Message"] = "Error en la venta";
+                TempData["Message"] = "Error en la venta / Falta de stock";
 
             }
             return RedirectToAction("Profile", "Compra");
