@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "stKXZQ5JKT4Wb0hGKfqF/3A2J1WSbFcHZHbmlCDvUBM=",
+  "Hash": "U147lkBmC+RJSEWpU0odQgfIB0drDUPzzFoLtAiZK54=",
   "Source": "UTN.WebApplication",
   "BasePath": "_content/UTN.WebApplication",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTN.WebApplication.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\register.css",
+      "Identity": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\home.css",
       "SourceId": "UTN.WebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\",
       "BasePath": "_content/UTN.WebApplication",
-      "RelativePath": "css/register.css",
+      "RelativePath": "css/home.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\register.css"
+      "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
       "Identity": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\site.css",
@@ -1212,6 +1212,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\Media\\mundial.webp",
+      "SourceId": "UTN.WebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\",
+      "BasePath": "_content/UTN.WebApplication",
+      "RelativePath": "Media/mundial.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\mundial.webp"
     }
   ]
 }

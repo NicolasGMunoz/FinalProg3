@@ -5,8 +5,12 @@
       "PackagePath": "staticwebassets\\UTN.WebApplication.bundle.scp.css"
     },
     {
-      "Id": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\register.css",
-      "PackagePath": "staticwebassets\\css\\register.css"
+      "Id": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\Media\\mundial.webp",
+      "PackagePath": "staticwebassets\\Media\\mundial.webp"
+    },
+    {
+      "Id": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
       "Id": "E:\\Carpetas\\Documentos\\UTN TUP\\repos\\Repo pulpo\\FinalProg3\\UTNINC\\UTN.WebApplication\\wwwroot\\css\\site.css",

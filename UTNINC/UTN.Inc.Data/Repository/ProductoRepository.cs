@@ -37,13 +37,13 @@ namespace UTN.Inc.Data.Repository
                 return true;
             }
             return false;
-            
+
 
         }
 
         public IQueryable<ProductoCategoriaDTO> ObtenerProductosYCategoria()
         {
-            
+
 
             return (from Producto in _prodRepo.Producto
                     join Categoria in _prodRepo.Categoria
@@ -64,33 +64,34 @@ namespace UTN.Inc.Data.Repository
             return query;
         }
 
-        public bool ObtenerProductos(string nombreProducto) 
+        public bool ObtenerProductos(string nombreProducto)
         {
             var query = _prodRepo.Producto.SingleOrDefault(p => p.Nombre == nombreProducto);
-            if (query == null) 
+            if (query == null)
             {
                 return false;
             }
             return true;
         }
 
-        
 
-        public int VerificarCategoria(string cat) 
+
+        public int VerificarCategoria(string cat)
         {
             var query = _prodRepo.Categoria.FirstOrDefault(c => c.Nombre == cat);
-            if (query == null) 
+            if (query == null)
             {
                 return 0;
             }
             return query.CategoriaId;
         }
 
-        public Producto ExisteId(int id) 
+        public Producto ExisteId(int id)
         {
             Producto producto = _prodRepo.Producto.SingleOrDefault(p => p.ProductoId == id);
             return producto;
 
         }
+
     }
 }

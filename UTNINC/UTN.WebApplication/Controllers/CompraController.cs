@@ -1,40 +1,22 @@
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-using UTN.WebApplication.Models;
+﻿using Microsoft.AspNetCore.Mvc;
 using UTN.Inc.Business;
-
+using UTN.Inc.Entities;
 
 namespace UTN.WebApplication.Controllers
 {
     public class CompraController : Controller
     {
-        private readonly ILogger<CompraController> _logger;
-        
+        private readonly ProductoLogica _productoLogica;
 
-        public CompraController(ILogger<CompraController> logger)
+        public CompraController(ProductoLogica productoLogica)
         {
-           
-            _logger = logger;
-        }
-
-        public IActionResult Index()
-        {
-
-            
-            return View();
+            _productoLogica = productoLogica;
         }
 
         public IActionResult Profile()
         {
-            return View();
-        }
-
-        
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            var newList = _productoLogica.ObtenerProductosWeb();
+            return View(newList);
         }
     }
 }

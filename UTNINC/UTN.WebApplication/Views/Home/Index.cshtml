@@ -2,9 +2,27 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <ul>
-        <li>@Html.ActionLink("Registrarse", "Register", "Home")</li>
-        <li>@Html.ActionLink("Inicio de Sesion", "Login", "Home")</li>
-    </ul>
+
+<div class="container">
+    <br />
+    <h2>Iniciar Sesión</h2>
+    <br />
+    <br />
+    <form id="loginForm" action="@Url.Action("Login","Home")" method="post">
+
+        <div class="form-group">
+            <input type="text" id="username" name="username" value="" placeholder="Usuario" required>
+        </div>
+        <br />
+        <div class="form-group">
+            <input type="password" id="password" name="password" value="" placeholder="Contraseña" required>
+        </div>
+        <br />
+        <button type="submit">Iniciar Sesion</button>
+    </form>
+    
 </div>
+
+
+
+<link rel="stylesheet" href="~/css/home.css" />

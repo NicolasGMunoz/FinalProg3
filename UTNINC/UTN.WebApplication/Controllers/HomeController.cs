@@ -1,37 +1,51 @@
+
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-using UTN.WebApplication.Models;
+using UTN.Inc.Business;
+
 
 namespace UTN.WebApplication.Controllers
 {
     public class HomeController : Controller
-    {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+    {
+    
+        private readonly UsuarioLogica _logica;
+
+        public HomeController(UsuarioLogica logica)
         {
-            _logger = logger;
+
+            _logica = logica;
         }
 
         public IActionResult Index()
         {
             return View();
         }
-
-        public IActionResult Register()
+        public IActionResult Profile()
         {
             return View();
         }
 
-        public IActionResult Login()
+
+
+
+        [HttpPost]
+
+        public ActionResult Login(string username, string password)
         {
-            return View();
+            string user = username;
+            string pass = password;
+
+
+            bool b = _logica.ValidarUsuarioWeb(user, pass);
+
+
+             if (b)
+             {
+               return RedirectToAction("Profile", "Compra");
+              }
+               else { return RedirectToAction("Error"); }
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }

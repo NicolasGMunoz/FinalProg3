@@ -166,7 +166,12 @@ namespace UTN.Inc.Business
             }
             return;
         }
-       
-        
+
+        public List<ProductoCategoriaDTO> ObtenerProductosWeb()
+        {
+            return _productoRepo.ObtenerProductosYCategoria().ToList();
+        }
     }
+
 }
+

@@ -1,16 +1,21 @@
-using Microsoft.EntityFrameworkCore;
 using UTN.Inc.Business;
-using UTN.WebApplication.Models;
-
-
+using UTN.Inc.Data.Repository;
+using Microsoft.EntityFrameworkCore;
+using UTN.Inc.Data.DBContext;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<UtnincContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("UTN.Connection")));
+
+builder.Services.AddScoped<UsuarioLogica>();
+builder.Services.AddScoped<UsuarioRepository>();
+builder.Services.AddScoped<ProductoLogica>();
+builder.Services.AddScoped<ProductoRepository>();
+builder.Services.AddScoped<UtnincContext>();
+
 builder.Services.AddControllersWithViews();
-
-
-builder.Services.AddDbContext<equipoDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("UTNConnectionString")));
 
 var app = builder.Build();
 
@@ -18,7 +23,6 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -34,5 +38,3 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
-
-

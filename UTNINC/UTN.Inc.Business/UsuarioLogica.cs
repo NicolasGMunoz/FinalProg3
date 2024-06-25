@@ -3,6 +3,7 @@ using UTN.Inc.Entities;
 using System.Security.Cryptography;
 using UTN.Inc.Business.Interfaces;
 using UTN.Inc.Data.Repository;
+using System.Diagnostics;
 
 
 namespace UTN.Inc.Business
@@ -116,7 +117,21 @@ namespace UTN.Inc.Business
             _usuaRepo.CrearUsuario(user);
         }
 
+        public bool ValidarUsuarioWeb(string username, string password)
+        {
+            var u = _usuaRepo.ObtenerUsuarioBD(username);
+            Debug.WriteLine(u);
+            Console.WriteLine(u);
 
+            if (u == null)
+            {
+                return false;
+            }
+            else
+            {
+                return VerifPassHash(password, u.Hash, u.Salt);
+            }
+        }
     }
 }
 

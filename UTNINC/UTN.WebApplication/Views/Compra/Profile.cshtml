@@ -1,0 +1,38 @@
+﻿@model IEnumerable<UTN.Inc.Entities.ProductoCategoriaDTO>
+
+@{
+    ViewData["Title"] = "Productos";
+}
+
+<h2>Productos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Nombre</th>
+            <th>Categoria</th>
+        </tr>
+    </thead>
+    <tbody>
+       
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductoId</td>
+                    <td>@item.ProductoNombre</td>
+                    <td>@item.CategoriaNombre</td>
+                <td>
+                    <input type="number" id="cantidad-@item.ProductoId" name="cantidad" value="" min="1" />
+                </td>
+                <td>
+                    <button type="button">Comprar</button>
+                    <button type="button">Vender</button>
+                </td>
+                </tr>
+            }
+       
+       
+    </tbody>
+</table>
+
