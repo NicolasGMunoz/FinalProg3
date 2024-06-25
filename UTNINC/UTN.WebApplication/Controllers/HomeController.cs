@@ -47,7 +47,11 @@ namespace UTN.WebApplication.Controllers
                 TempData["username"] = user;
                 return RedirectToAction("Profile", "Compra");
               }
-               else { return RedirectToAction("Error"); }
+               else 
+                { 
+                 TempData["Message"] = "Datos erroneos, intente nuevamente"; 
+               }
+            return RedirectToAction("Index", "Home");
         }
 
     }

@@ -23,6 +23,11 @@
     
 </div>
 
-
+@if (TempData["Message"] != null)
+{
+    <script type="text/javascript">
+        alert('@TempData["Message"]');
+    </script>
+}
 
 <link rel="stylesheet" href="~/css/home.css" />
