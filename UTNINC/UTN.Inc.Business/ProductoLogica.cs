@@ -157,19 +157,21 @@ namespace UTN.Inc.Business
 
         }
 
+        //DEVUELVE TANTO HABILITADOS COMO DESHABILITADOS PARA GESTIONAR EL ABM EN CONSOLA
         public void ListarTodosLosProductos() 
         {
             var result = _productoRepo.ObtenerProductosYCategoria();
             foreach (var item in result) 
             { 
-                Console.WriteLine($"ID:{item.ProductoId} Nombre: {item.ProductoNombre} Categoria: {item.CategoriaNombre}");
+                Console.WriteLine($"ID:{item.ProductoId} Nombre: {item.ProductoNombre} Categoria: {item.CategoriaNombre} Habilitado: {item.Habilitado}");
             }
             return;
         }
 
+        //DEVUELVE A APPWEB SOLO LOS PRODUCTOS HABILITADOS
         public List<ProductoCategoriaDTO> ObtenerProductosWeb()
         {
-            return _productoRepo.ObtenerProductosYCategoria().ToList();
+            return _productoRepo.ObtenerProductosYCategoriaWeb().ToList();
         }
     }
 

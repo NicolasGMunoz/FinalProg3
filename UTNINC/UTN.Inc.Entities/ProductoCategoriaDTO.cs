@@ -12,6 +12,7 @@ namespace UTN.Inc.Entities
         public string CategoriaNombre { get; set; }
         public int ProductoId { get; set; }
         
+        public bool? Habilitado { get; set; }
         
     }
 }

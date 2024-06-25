@@ -53,16 +53,32 @@ namespace UTN.Inc.Data.Repository
                         ProductoNombre = Producto.Nombre,
                         CategoriaNombre = Categoria.Nombre,
                         ProductoId = Producto.ProductoId,
+                        Habilitado = Producto.Habilitado,
                     });
 
 
         }
 
-        public IQueryable<Producto> ObtenerProductosDeshabilitados()
+        public IQueryable<ProductoCategoriaDTO> ObtenerProductosYCategoriaWeb()
         {
-            IQueryable<Producto> query = _prodRepo.Producto.Where(u => u.Habilitado == false);
-            return query;
+
+
+            return (from Producto in _prodRepo.Producto
+                    join Categoria in _prodRepo.Categoria
+                    on Producto.CategoriaId equals Categoria.CategoriaId
+                    where Producto.Habilitado == true
+                    select new ProductoCategoriaDTO
+                    {
+                        ProductoNombre = Producto.Nombre,
+                        CategoriaNombre = Categoria.Nombre,
+                        ProductoId = Producto.ProductoId,
+                        Habilitado = Producto.Habilitado,
+                    });
+
+
         }
+
+       
 
         public bool ObtenerProductos(string nombreProducto)
         {
